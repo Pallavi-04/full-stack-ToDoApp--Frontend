@@ -1,6 +1,8 @@
 import axios from 'axios';
 
-const baseUrl = "https://full-stack-todoapp-backend-1.onrender.com"
+// const baseUrl = "https://full-stack-todoapp-backend-1.onrender.com"
+// const baseUrl = "http://localhost:5000"
+const baseUrl = "https://full-stack-todoapp-backend-2.onrender.com"
 
 
 // API for get, add, update, delete
